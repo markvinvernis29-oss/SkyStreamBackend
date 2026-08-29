@@ -68,5 +68,12 @@
     "category": "Entertainment",
     "streamUrl": "https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8",
     "logoUrl": "https://www.sabc2.co.za/sabc2/wp-content/uploads/2024/11/cropped-sabc2-logo-small-1.png"
+  },
+  {
+    "id": 11,
+    "name": "Zee World",
+    "category": "Entertainment",
+    "streamUrl": "http://kvajpjxr.icebok.net/live/B4B2HTQ/QQM9E32/328706.m3u8",
+    "logoUrl": "https://www.appcreator24.com/srv/imgs/seccs/39152542_ico.png?ts=1788039028"
   }
 ]
