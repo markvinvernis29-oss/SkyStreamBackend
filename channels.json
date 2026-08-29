@@ -1,15 +1,4 @@
-const express = require('express');
-const cors = require('cors');
-const ffmpeg = require('fluent-ffmpeg');
-const app = express();
-const PORT = process.env.PORT || 5000;
-
-app.use(cors());
-app.use(express.json());
-
-// --- DATA ---
-const channels = [
-  {
+{
     "id": 1,
     "name": "SuperSport Grandstand",
     "category": "Sports",
@@ -66,25 +55,3 @@ const channels = [
     "logoUrl": "https://www.appcreator24.com/srv/imgs/seccs/39148524_ico.png?ts=1788035194"
   }
 ];
-
-// --- ROUTES ---
-app.get('/api/channels', (req, res) => res.json(channels));
-app.get('/api/movies', (req, res) => res.json([]));
-app.get('/api/series', (req, res) => res.json([]));
-
-app.get('/api/transcode', (req, res) => {
-  const streamUrl = req.query.url;
-  if (!streamUrl) return res.status(400).send('No URL provided');
-  res.header('Access-Control-Allow-Origin', '*');
-  res.header('Content-Type', 'video/mp2t');
-  const command = ffmpeg(streamUrl)
-    .videoCodec('libx264').audioCodec('aac').format('mpegts')
-    .outputOptions(['-preset ultrafast', '-tune zerolatency'])
-    .on('error', (err) => console.log('FFmpeg Error: ' + err.message));
-  command.pipe(res, { end: true });
-  req.on('close', () => command.kill('SIGKILL'));
-});
-
-app.listen(PORT, '0.0.0.0', () => {
-  console.log(`Sky Stream backend running on port ${PORT}`);
-});
