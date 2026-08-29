@@ -61,5 +61,12 @@
     "category": "Entertainment",
     "streamUrl": "http://hamopen.xyz/live/XPSGKK3/HUH6G8S/178485.m3u8",
     "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/e/e5/SABC1.svg/revision/latest/scale-to-width-down/300?cb=20250814233558"
+  },
+  {
+    "id": 10,
+    "name": "SABC 2",
+    "category": "Entertainment",
+    "streamUrl": "https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8",
+    "logoUrl": "https://www.appcreator24.com/srv/imgs/seccs/38669845_ico.png?ts=1788038573"
   }
 ]
