@@ -1,38 +1,52 @@
 [
   {
-    "name": "Supersport Grandstand",
-    "category": "Sport",
-    "number": 101,
-    "streamUrl": "http://dailyfunnews.bond/live/MAGDGP1QZ9/Xba4ZIy7G6/326562.m3u8"
+    id: 1,
+    name: "SuperSport Grandstand",
+    category: "Sports",
+    streamUrl: "http://dailyfunnews.bond/live/MAGDGP1QZ9/Xba4ZIy7G6/326562.m3u8",
+    logoUrl: "https://devcdn.24.co.za/files/supersport/201.png",
   },
   {
-    "name": "Sky Sports",
-    "category": "Sports",
-    "number": 102,
-    "streamUrl": ""
+    id: 2,
+    name: "SuperSport Rugby",
+    category: "Sports",
+    streamUrl: "http://czzhamxp.yufengdns.com/live/CZQM65V9/2SDAKY3Y/5716.m3u8",
+    logoUrl: "https://devcdn.24.co.za/files/supersport/211.png",
   },
   {
-    "name": "Sky Movies",
-    "category": "Movies",
-    "number": 103,
-    "streamUrl": ""
+    id: 3,
+    name: "SuperSport Cricket",
+    category: "Sports",
+    streamUrl: "http://czzhamxp.yufengdns.com/live/CZQM65V9/2SDAKY3Y/22600.m3u8",
+    logoUrl: "https://www.appcreator24.com/srv/imgs/seccs/38942109_ico.png?ts=1787949168",
   },
   {
-    "name": "Sky Kids",
-    "category": "Kids",
-    "number": 104,
-    "streamUrl": ""
+    id: 4,
+    name: "Supersport Football",
+    category: "Sports",
+    streamUrl: "http://4kbydreams.com/live/MAGDGP1QZ9/Xba4ZIy7G6/108902.m3u8",
+    logoUrl: "https://r2.thesportsdb.com/images/media/channel/logo/7lxofw1656964140.pngc",
   },
   {
-    "name": "Sky Music",
-    "category": "Music",
-    "number": 105,
-    "streamUrl": ""
+    id: 5,
+    name: "M-Net",
+    category: "Entertainment",
+    streamUrl: "http://czzhamxp.yufengdns.com/live/CZQM65V9/2SDAKY3Y/2432.m3u8",
+    logoUrl: "https://www.appcreator24.com/srv/imgs/seccs/38942030_ico.png?ts=1787997996",
   },
   {
-    "name": "Sky Entertainment",
-    "category": "Entertainment",
-    "number": 106,
-    "streamUrl": ""
-  }
+      id: 6,
+      name: "eNCA",
+      category: "News",
+      streamUrl: "http://4kip55.xyz/live/MAGHXW5N4R/UtgTupuOwy/308525.m3u8",
+      logoUrl: "https://www.appcreator24.com/srv/imgs/seccs/38667244_ico.png?ts=1788000975",
+    },
+    {
+          id: 7,
+          name: "KykNet",
+          category: "Entertaimment",
+          streamUrl: "http://servicepro4.shop/live/MAGDGP1QZ9/Xba4ZIy7G6/326168.m3u8",
+          logoUrl: "https://silwerskermfees.co.za/wp-content/uploads/2024/06/kykNET-Logo_Horiztonal.png",
+        },
+];
 ]
