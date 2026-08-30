@@ -71,9 +71,29 @@
   },
   {
     "id": 11,
+    "name": "SABC 3",
+    "category": "Entertainment",
+    "streamUrl": "http://xuimgknt.prokingtv.xyz/live/GXQNJ42/PY1K3RV/178487.m3u8",
+    "logoUrl": "https://go4.pw/AFRICA/Uganda/SABC-3.png"
+  },
+  {
+    "id": 12,
     "name": "Zee World",
     "category": "Entertainment",
     "streamUrl": "http://kvajpjxr.icebok.net/live/B4B2HTQ/QQM9E32/328706.m3u8",
     "logoUrl": "https://www.appcreator24.com/srv/imgs/seccs/39152542_ico.png?ts=1788039028"
-  }
+  },
+  {
+    "id": 13,
+    "name": "eMovies",
+    "category": "Entertainment",
+    "streamUrl": "http://xuimgknt.prokingtv.xyz/live/GXQNJ42/PY1K3RV/1138279.m3u8",
+    "logoUrl": "https://go4.pw/AFRICA/EMOVIES.png"
+  },
+  {
+    "id": 14,
+    "name": "eMovies Extra",
+    "category": "Entertainment",
+    "streamUrl": "http://xuimgknt.prokingtv.xyz/live/GXQNJ42/PY1K3RV/1138280.m3u8",
+    "logoUrl": "https://go4.pw/AFRICA/EMOVIES%20EXTRA.png"
 ]
