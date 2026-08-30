@@ -1,5 +1,12 @@
 [
   {
+    "id": 0,
+    "name": "SuperSport Blitz",
+    "category": "Sports",
+    "streamUrl": "http://xuimgknt.prokingtv.xyz/live/GXQNJ42/PY1K3RV/108912.m3u8",
+    "logoUrl": "https://devcdn.24.co.za/files/supersport/200.png"
+  },
+  {
     "id": 1,
     "name": "SuperSport Grandstand",
     "category": "Sports",
@@ -29,69 +36,76 @@
   },
   {
     "id": 5,
+    "name": "Supersport Action",
+    "category": "Sports",
+    "streamUrl": "http://xuimgknt.prokingtv.xyz/live/GXQNJ42/PY1K3RV/429030.m3u8",
+    "logoUrl": "https://www.freeshot.live/upload/source/SuperSportAction.png"
+  },
+  {
+    "id": 6,
     "name": "M-Net",
     "category": "Entertainment",
     "streamUrl": "http://czzhamxp.yufengdns.com/live/CZQM65V9/2SDAKY3Y/2432.m3u8",
     "logoUrl": "https://www.appcreator24.com/srv/imgs/seccs/38942030_ico.png?ts=1787997996"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "eNCA",
     "category": "News",
     "streamUrl": "http://4kip55.xyz/live/MAGHXW5N4R/UtgTupuOwy/308525.m3u8",
     "logoUrl": "https://www.appcreator24.com/srv/imgs/seccs/38667244_ico.png?ts=1788000975"
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "KykNet",
     "category": "Entertainment",
     "streamUrl": "http://servicepro4.shop/live/MAGDGP1QZ9/Xba4ZIy7G6/326168.m3u8",
     "logoUrl": "https://silwerskermfees.co.za/wp-content/uploads/2024/06/kykNET-Logo_Horiztonal.png"
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "KykNet & Kie",
     "category": "Entertainment",
     "streamUrl": "http://4kip55.xyz/live/MAGHXW5N4R/UtgTupuOwy/514606.m3u8",
     "logoUrl": "https://www.appcreator24.com/srv/imgs/seccs/39148524_ico.png?ts=1788035194"
   },
   {
-    "id": 9,
+    "id": 10,
     "name": "SABC 1",
     "category": "Entertainment",
     "streamUrl": "http://hamopen.xyz/live/XPSGKK3/HUH6G8S/178485.m3u8",
     "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/e/e5/SABC1.svg/revision/latest/scale-to-width-down/300?cb=20250814233558"
   },
   {
-    "id": 10,
+    "id": 11,
     "name": "SABC 2",
     "category": "Entertainment",
     "streamUrl": "https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8",
     "logoUrl": "https://www.sabc2.co.za/sabc2/wp-content/uploads/2024/11/cropped-sabc2-logo-small-1.png"
   },
   {
-    "id": 11,
+    "id": 12,
     "name": "SABC 3",
     "category": "Entertainment",
     "streamUrl": "http://xuimgknt.prokingtv.xyz/live/GXQNJ42/PY1K3RV/178487.m3u8",
     "logoUrl": "https://go4.pw/AFRICA/Uganda/SABC-3.png"
   },
   {
-    "id": 12,
+    "id": 13,
     "name": "Zee World",
     "category": "Entertainment",
     "streamUrl": "http://kvajpjxr.icebok.net/live/B4B2HTQ/QQM9E32/328706.m3u8",
     "logoUrl": "https://www.appcreator24.com/srv/imgs/seccs/39152542_ico.png?ts=1788039028"
   },
   {
-    "id": 13,
+    "id": 14,
     "name": "eMovies",
     "category": "Entertainment",
     "streamUrl": "http://xuimgknt.prokingtv.xyz/live/GXQNJ42/PY1K3RV/1138279.m3u8",
     "logoUrl": "https://go4.pw/AFRICA/EMOVIES.png"
   },
   {
-    "id": 14,
+    "id": 15,
     "name": "eMovies Extra",
     "category": "Entertainment",
     "streamUrl": "http://xuimgknt.prokingtv.xyz/live/GXQNJ42/PY1K3RV/1138280.m3u8",
