@@ -42,6 +42,13 @@
     "logoUrl": "https://www.freeshot.live/upload/source/SuperSportAction.png"
   },
   {
+    "id": 45,
+    "name": "Supersport Golf",
+    "category": "Sports",
+    "streamUrl": "http://xuimgknt.prokingtv.xyz/live/GXQNJ42/PY1K3RV/108909.m3u8",
+    "logoUrl": "https://i.imgur.com/5VeJd2T.png"
+  }
+  {
     "id": 6,
     "name": "M-Net",
     "category": "Entertainment",
