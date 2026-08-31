@@ -49,6 +49,13 @@
     "logoUrl": "https://i.imgur.com/5VeJd2T.png"
   },
   {
+    "id": 46,
+    "name": "MUTV",
+    "category": "Sports",
+    "streamUrl": "http://rochno.xyz/live/fuegosat5175/ggfhzozom1/10501.m3u8",
+    "logoUrl": "http://57.128.182.77:8080/UK/MUTV.png"
+  },
+  {
     "id": 6,
     "name": "M-Net",
     "category": "Entertainment",
