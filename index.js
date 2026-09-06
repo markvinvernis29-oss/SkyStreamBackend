@@ -277,24 +277,27 @@ app.get('/api/transcode', (req, res) => {
 
   const command = ffmpeg(streamUrl)
     .inputOptions([
-        '-user_agent', 'Mozilla/5.0',
+        '-user_agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36',
         '-reconnect', '1',
         '-reconnect_streamed', '1',
-        '-reconnect_delay_max', '2'
+        '-reconnect_delay_max', '5',
+        '-headers', 'Referer: http://czzhamxp.yufengdns.com/\r\n',
+        '-rw_timeout', '15000000' // 15 seconds timeout
     ])
     .videoFilters(`scale=${scale}`)
     .videoCodec('libx264')
     .audioCodec('aac')
     .format('mpegts')
-    // Using outputOptions for bitrates to be more robust
     .outputOptions([
         '-preset ultrafast',
         '-tune zerolatency',
-        '-g 15',
+        '-g 30', // Increase GOP for stability
         `-b:v ${videoBitrate}`,
         `-b:a ${audioBitrate}`,
         '-maxrate ' + videoBitrate,
-        '-bufsize ' + (parseInt(videoBitrate) * 2) + 'k'
+        '-bufsize ' + (parseInt(videoBitrate) * 2) + 'k',
+        '-copyts', // Copy timestamps to keep sync
+        '-f mpegts'
     ])
     .on('start', (commandLine) => {
         console.log('Spawned FFmpeg with command: ' + commandLine);
