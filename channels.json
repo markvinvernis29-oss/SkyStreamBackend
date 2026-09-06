@@ -49,6 +49,13 @@
     "logoUrl": "https://www.freeshot.live/upload/source/SuperSportGolf-logo.png"
   },
   {
+    "id": 06,
+    "name": "Supersport Tennis",
+    "category": "Sports",
+    "streamUrl": "http://kvajpjxr.icebok.net/live/B4B2HTQ/QQM9E32/1138285.m3u8",
+    "logoUrl": "https://www.appcreator24.com/srv/imgs/seccs/39152554_ico.png?ts=1788686564"
+  },
+  {
     "id": 7,
     "name": "Supersport Motosport",
     "category": "Sports",
