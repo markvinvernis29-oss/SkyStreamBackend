@@ -222,5 +222,19 @@
     "category": "Sports",
     "streamUrl": "http://op.web24.live:8080/live/Naas@01182024/ryJ4R3HZJpB5/41698.m3u8",
     "logoUrl": "https://i.ibb.co/pvmNf9y/fox-sports-cricket-501-hd-au.png"
+  },
+  {
+    "id": 32,
+    "name": "Sky Sports Premier League",
+    "category": "Sports",
+    "streamUrl": "http://wbros.org/live/MAG7V1463B/MAGN7JTZPH/365044.m3u8",
+    "logoUrl": "https://go4.pw/UK/skypre.png"
+  },
+  {
+    "id": 33,
+    "name": "Sky Sports F1",
+    "category": "Sports",
+    "streamUrl": "http://wbros.org/live/MAG7V1463B/MAGN7JTZPH/348306.m3u8",
+    "logoUrl": "https://go4.pw/UK/skyf1.png"
   }
 ]
