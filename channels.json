@@ -28,10 +28,17 @@
     "logoUrl": "https://www.appcreator24.com/srv/imgs/seccs/38942109_ico.png?ts=1787949168"
   },
   {
+    "id": 41,
+    "name": "Supersport PSL",
+    "category": "Sports",
+    "streamUrl": "http://b2wbs.com/live/MAGJTLCNE8/MAGXFA53CV/1138274.m3u8",
+    "logoUrl": "https://go4.pw/AFRICA/SS%20PSL.png"
+  },
+  {
     "id": 4,
     "name": "Supersport Football",
     "category": "Sports",
-    "streamUrl": "http://tvlink.top/live/L7K0D85FUVYN6PU/jrcVfiO3WE/1138302.m3u8",
+    "streamUrl": "http://b2wbs.com/live/MAGJTLCNE8/MAGXFA53CV/1138302.m3u8",
     "logoUrl": "https://r2.thesportsdb.com/images/media/channel/logo/7lxofw1656964140.png"
   },
   {
@@ -155,9 +162,9 @@
   },
   {
     "id": 22,
-    "name": "M-Net Movies 2",
+    "name": "M Stars",
     "category": "Movies",
-    "streamUrl": "http://rochno.xyz/live/fuegosat5175/ggfhzozom1/1164786.m3u8",
+    "streamUrl": "http://b2wbs.com/live/MAGJTLCNE8/MAGXFA53CV/108876.m3u8",
     "logoUrl": "https://epg.pw/media/images/epg/2025/08/07/20250807040144634037_36.png"
   },
   {
