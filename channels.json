@@ -1,1 +1,261 @@
-
+[
+  {
+    "id": 0,
+    "name": "SuperSport Blitz",
+    "category": "Sports",
+    "streamUrl": "http://xuimgknt.prokingtv.xyz/live/GXQNJ42/PY1K3RV/108912.m3u8",
+    "logoUrl": "https://devcdn.24.co.za/files/supersport/200.png"
+  },
+  {
+    "id": 1,
+    "name": "SuperSport Grandstand",
+    "category": "Sports",
+    "streamUrl": "http://www.magnum-ott.net/live/MAGJTLCNE8/MAGXFA53CV/326562.m3u8",
+    "logoUrl": "https://devcdn.24.co.za/files/supersport/201.png"
+  },
+  {
+    "id": 2,
+    "name": "SuperSport Rugby",
+    "category": "Sports",
+    "streamUrl": "http://www.magnum-ott.net/live/MAGJTLCNE8/MAGXFA53CV/108907.m3u8",
+    "logoUrl": "https://devcdn.24.co.za/files/supersport/211.png"
+  },
+  {
+    "id": 3,
+    "name": "SuperSport Cricket",
+    "category": "Sports",
+    "streamUrl": "http://www.magnum-ott.net/live/MAGJTLCNE8/MAGXFA53CV/108908.m3u8",
+    "logoUrl": "https://www.appcreator24.com/srv/imgs/seccs/38942109_ico.png?ts=1787949168"
+  },
+  {
+    "id": 41,
+    "name": "Supersport PSL",
+    "category": "Sports",
+    "streamUrl": "http://b2wbs.com/live/MAGJTLCNE8/MAGXFA53CV/1138274.m3u8",
+    "logoUrl": "https://go4.pw/AFRICA/SS%20PSL.png"
+  },
+  {
+    "id": 4,
+    "name": "Supersport Football",
+    "category": "Sports",
+    "streamUrl": "http://b2wbs.com/live/MAGJTLCNE8/MAGXFA53CV/1138302.m3u8",
+    "logoUrl": "https://r2.thesportsdb.com/images/media/channel/logo/7lxofw1656964140.png"
+  },
+  {
+    "id": 5,
+    "name": "Supersport Action",
+    "category": "Sports",
+    "streamUrl": "http://www.magnum-ott.net/live/MAGJTLCNE8/MAGXFA53CV/429030.m3u8",
+    "logoUrl": "https://www.freeshot.live/upload/source/SuperSportAction.png"
+  },
+  {
+    "id": 6,
+    "name": "Supersport Golf",
+    "category": "Sports",
+    "streamUrl": "http://xuimgknt.prokingtv.xyz/live/GXQNJ42/PY1K3RV/108909.m3u8",
+    "logoUrl": "https://www.freeshot.live/upload/source/SuperSportGolf-logo.png"
+  },
+  {
+    "id": 7,
+    "name": "Supersport Tennis",
+    "category": "Sports",
+    "streamUrl": "http://www.magnum-ott.net/live/MAGJTLCNE8/MAGXFA53CV/108906.m3u8",
+    "logoUrl": "https://www.appcreator24.com/srv/imgs/seccs/39152554_ico.png?ts=1788686564"
+  },
+  {
+    "id": 8,
+    "name": "Supersport Motosport",
+    "category": "Sports",
+    "streamUrl": "http://dzi-tech.net/live/4D93DF994C46A7C/n36jFaEPMz/108910.m3u8",
+    "logoUrl": "https://www.freeshot.live/upload/source/SuperSportMotorsport-logo.png"
+  },
+  {
+    "id": 9,
+    "name": "MUTV",
+    "category": "Sports",
+    "streamUrl": "http://rochno.xyz/live/fuegosat5175/ggfhzozom1/10501.m3u8",
+    "logoUrl": "http://57.128.182.77:8080/UK/MUTV.png"
+  },
+  {
+    "id": 10,
+    "name": "M-Net",
+    "category": "Entertainment",
+    "streamUrl": "http://czzhamxp.yufengdns.com/live/CZQM65V9/2SDAKY3Y/2432.m3u8",
+    "logoUrl": "https://www.appcreator24.com/srv/imgs/seccs/38942030_ico.png?ts=1787997996"
+  },
+  {
+    "id": 11,
+    "name": "eNCA",
+    "category": "News",
+    "streamUrl": "http://4kip55.xyz/live/MAGHXW5N4R/UtgTupuOwy/308525.m3u8",
+    "logoUrl": "https://www.appcreator24.com/srv/imgs/seccs/38667244_ico.png?ts=1788000975"
+  },
+  {
+    "id": 12,
+    "name": "KykNet",
+    "category": "Entertainment",
+    "streamUrl": "http://xuimgknt.prokingtv.xyz/live/GXQNJ42/PY1K3RV/326168.m3u8",
+    "logoUrl": "https://silwerskermfees.co.za/wp-content/uploads/2024/06/kykNET-Logo_Horiztonal.png"
+  },
+  {
+    "id": 13,
+    "name": "KykNet & Kie",
+    "category": "Entertainment",
+    "streamUrl": "http://czzhamxp.yufengdns.com/live/CZQM65V9/2SDAKY3Y/217767.m3u8",
+    "logoUrl": "https://www.appcreator24.com/srv/imgs/seccs/39148524_ico.png?ts=1788035194"
+  },
+  {
+    "id": 14,
+    "name": "VIA",
+    "category": "Entertainment",
+    "streamUrl": "http://xuimgknt.prokingtv.xyz/live/GXQNJ42/PY1K3RV/1135014.m3u8",
+    "logoUrl": "https://go4.pw/AFRICA/VIA.png"
+  },
+  {
+    "id": 15,
+    "name": "SABC 1",
+    "category": "Entertainment",
+    "streamUrl": "http://hamopen.xyz/live/XPSGKK3/HUH6G8S/178485.m3u8",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/e/e5/SABC1.svg/revision/latest/scale-to-width-down/300?cb=20250814233558"
+  },
+  {
+    "id": 16,
+    "name": "SABC 2",
+    "category": "Entertainment",
+    "streamUrl": "https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8",
+    "logoUrl": "https://www.sabc2.co.za/sabc2/wp-content/uploads/2024/11/cropped-sabc2-logo-small-1.png"
+  },
+  {
+    "id": 17,
+    "name": "SABC 3",
+    "category": "Entertainment",
+    "streamUrl": "http://xuimgknt.prokingtv.xyz/live/GXQNJ42/PY1K3RV/178487.m3u8",
+    "logoUrl": "https://go4.pw/AFRICA/Uganda/SABC-3.png"
+  },
+  {
+    "id": 18,
+    "name": "Zee World",
+    "category": "Entertainment",
+    "streamUrl": "http://kvajpjxr.icebok.net/live/B4B2HTQ/QQM9E32/328706.m3u8",
+    "logoUrl": "https://www.appcreator24.com/srv/imgs/seccs/39152542_ico.png?ts=1788039028"
+  },
+  {
+    "id": 19,
+    "name": "eMovies",
+    "category": "Entertainment",
+    "streamUrl": "http://xuimgknt.prokingtv.xyz/live/GXQNJ42/PY1K3RV/1138279.m3u8",
+    "logoUrl": "https://go4.pw/AFRICA/EMOVIES.png"
+  },
+  {
+    "id": 20,
+    "name": "eMovies Extra",
+    "category": "Entertainment",
+    "streamUrl": "http://xuimgknt.prokingtv.xyz/live/GXQNJ42/PY1K3RV/1138280.m3u8",
+    "logoUrl": "https://go4.pw/AFRICA/EMOVIES%20EXTRA.png"
+  },
+  {
+    "id": 21,
+    "name": "M Movies 1",
+    "category": "Movies",
+    "streamUrl": "http://www.magnum-ott.net/live/MAGJTLCNE8/MAGXFA53CV/1128746.m3u8",
+    "logoUrl": "https://epg.pw/media/images/epg/2025/08/07/20250807040144634037_36.png"
+  },
+  {
+    "id": 22,
+    "name": "M Stars",
+    "category": "Movies",
+    "streamUrl": "http://b2wbs.com/live/MAGJTLCNE8/MAGXFA53CV/108876.m3u8",
+    "logoUrl": "https://epg.pw/media/images/epg/2025/08/07/20250807040144634037_36.png"
+  },
+  {
+    "id": 23,
+    "name": "Trace Urban",
+    "category": "Music",
+    "streamUrl": "http://xuimgknt.prokingtv.xyz/live/GXQNJ42/PY1K3RV/121558.m3u8",
+    "logoUrl": "https://go4.pw/AFRICA/SOUTH-AFRICA/Trace_Urban.png"
+  },
+  {
+    "id": 24,
+    "name": "Discovery Family",
+    "category": "Entertaiment",
+    "streamUrl": "http://tvlink.top/live/L7K0D85FUVYN6PU/jrcVfiO3WE/1138282.m3u8",
+    "logoUrl": "https://go4.pw/AFRICA/CANAL+/Discovery-Channel.png"
+  },
+  {
+    "id": 25,
+    "name": "Universal TV",
+    "category": "Entertaiment",
+    "streamUrl": "http://czzhamxp.yufengdns.com/live/CZQM65V9/2SDAKY3Y/33383.m3u8",
+    "logoUrl": "https://lo1.in/dstv/unv.png"
+  },
+  {
+    "id": 26,
+    "name": "Africa Magic Epic",
+    "category": "Entertaiment",
+    "streamUrl": "http://czzhamxp.yufengdns.com/live/CZQM65V9/2SDAKY3Y/33363.m3u8",
+    "logoUrl": "https://lo1.in/af/zwafmgepic.png"
+  },
+  {
+    "id": 27,
+    "name": "Africa Magic Epic",
+    "category": "Entertaiment",
+    "streamUrl": "http://czzhamxp.yufengdns.com/live/CZQM65V9/2SDAKY3Y/33363.m3u8",
+    "logoUrl": "https://lo1.in/af/zwafmgepic.png"
+  },
+  {
+    "id": 28,
+    "name": "Movie Room",
+    "category": "Movies",
+    "streamUrl": "http://czzhamxp.yufengdns.com/live/CZQM65V9/2SDAKY3Y/6528.m3u8",
+    "logoUrl": "https://lo1.in/dstv/movie.png"
+  },
+  {
+    "id": 29,
+    "name": "Star Life",
+    "category": "Entertainment",
+    "streamUrl": "http://czzhamxp.yufengdns.com/live/CZQM65V9/2SDAKY3Y/33371.m3u8",
+    "logoUrl": "https://lo1.in/dstv/strlf.png"
+  },
+  {
+    "id": 30,
+    "name": "TNT Africa",
+    "category": "Movies",
+    "streamUrl": "http://activefrance.net/live/8TGLAHUVB9PX477/2mhmoHsizA/108881.m3u8",
+    "logoUrl": "https://go4.pw/USA/SD/42.png"
+  },
+  {
+    "id": 31,
+    "name": "FOX Sports 501",
+    "category": "Sports",
+    "streamUrl": "http://op.web24.live:8080/live/Naas@01182024/ryJ4R3HZJpB5/41698.m3u8",
+    "logoUrl": "https://i.ibb.co/pvmNf9y/fox-sports-cricket-501-hd-au.png"
+  },
+  {
+    "id": 32,
+    "name": "Sky Sports Premier League",
+    "category": "Sports",
+    "streamUrl": "http://angelodebingu.com/live/MPHSB7QRY95HR18/sp8B4DLJKz/348318.m3u8",
+    "logoUrl": "https://go4.pw/UK/skypre.png"
+  },
+  {
+    "id": 33,
+    "name": "Sky Sports Mix",
+    "category": "Sports",
+    "streamUrl": "http://ssignal.fun/live/zuany-arriaga/Ynauz2023usa/439276.m3u8",
+    "logoUrl": "https://i.postimg.cc/vTpT3ycX/images-q-tbn-ANd9Gc-Rlo-SFMo-YFMMEEt-CGS5UYx-PXzp2706nf-Hz95Q-s.jpg"
+  },
+  {
+    "id": 34,
+    "name": "WWE Network",
+    "category": "Sports",
+    "streamUrl": "http://ssignal.fun/live/zuany-arriaga/Ynauz2023usa/595927.m3u8",
+    "logoUrl": "https://go4.pw/UK/skyf1.png"
+  },
+  {
+    "id": 35,
+    "name": "MUTV",
+    "category": "Sports",
+    "streamUrl": "http://angelodebingu.com/live/MPHSB7QRY95HR18/sp8B4DLJKz/17278.m3u8",
+    "logoUrl": "https://go4.pw/UK/mutv.png"
+  }
+]
