@@ -1,1 +1,11 @@
-
+[
+  {
+    "id": 1,
+    "title": "Your Custom Movie",
+    "year": "2026",
+    "category": "Action",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_Teaser_Poster.jpg",
+    "videoUrl": "http://your-stream-url.m3u8",
+    "trailerUrl": "https://www.youtube.com/watch?v=..."
+  }
+]
